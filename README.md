@@ -48,10 +48,10 @@ Welcome to my SQL assignment repository for **CT\_CSI\_SQ\_4155 Task C**. This p
 
 ```
 📁 CT_CSI_SQ_4155_TaskC/
-├── Task01.sql
-├── Task02.sql
+├── SQLQuery1.sql
+├── SQLQuery2.sql
 ├── ...
-├── Task20.sql
+├── SQLQuery20.sql
 └── README.md
 ```
 
